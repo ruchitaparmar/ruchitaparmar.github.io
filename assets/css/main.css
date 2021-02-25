@@ -246,6 +246,13 @@ input, select, textarea {
 
 .projectButton {
 	border-radius: 0.15em;
+	/*background: url('../../images/SharkProject2.jpg');*/
+}
+
+.projectButton:hover {
+	border-radius: 0.15em;
+	/*background: url('../../images/aquarium.gif');*/
+	transform: scale(0.97);
 }
 
 .shadow {
@@ -266,9 +273,9 @@ input, select, textarea {
 }
 
 .box:hover {
- // background: black; //linear-gradient(to right, #abbd73 0%, #abbd73 100%);
+  // background: black; //linear-gradient(to right, #abbd73 0%, #abbd73 100%);
   //box-shadow: 0 15px 10px green;
-  transform: scale(0.97);
+  /*transform: scale(0.97);*/
 }
 
 .shadow:hover::before {
