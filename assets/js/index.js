@@ -93,8 +93,11 @@ var commands = {
     },
     about: function() {
         this.echo('\n' + 
-                  '• In June 2019, I completed my undergrad in CS from University of Mumbai, India.' + '\n' +
-                  '• Currently, I am in my first year of MS in HCI at Georgia Tech, USA.' + '\n' +
+                  '• I am a UX Generalist with experiences in Research, Design, Prototyping and Accessibility.' + '\n' +
+                  '• My design role models are Dieter Rams, John Maeda and Karen Holtzblatt.' + '\n' +
+                  '• In May 2021, I comleted my Masters degree in Human-Computer Interaction at Georgia Tech, USA.' + '\n' +
+                  '• In June 2019, I completed my Bachelors degree in Computer Science at Mumbai University, India.' + '\n' +
+                  '' + '\n' +
                   '• My Chinese name is 卡拉 (Kǎlā or Kara or Carla)' + '\n' +
                   '• I am huge Potterhead. On Pottermore, I was sorted into the Gryffindor house.' + '\n' + 
                   '• My Patronus is a Tonkinese Cat. ' + '\n' +
