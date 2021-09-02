@@ -410,9 +410,11 @@ input, select, textarea {
 }
 
 img {
-    //border: solid black 2px;
-    padding: 0px; //2px;
-    box-shadow: 0 2px 3px rgba(0,0,0,1);
+    /*border: solid black 2px;*/
+    padding: 0px; 
+    box-shadow: 0 2px 3px rgba(168,168,168,1);
+    /*box-shadow: 0 2px 3px rgba(120,120,120,1);
+    box-shadow: 0 2px 3px rgba(152,152,152,1);*/
 }
 ///////////////////////////////////////////////
 
