@@ -95,6 +95,7 @@ var commands = {
         this.echo('\n' + 
                   '• I am a UX Generalist with experiences in Research, Design, Prototyping and Accessibility.' + '\n' +
                   '• My design role models are Dieter Rams, John Maeda and Karen Holtzblatt.' + '\n' +
+                  '• Since December  2021, I have been a UX Designer at Google based in Seattle, Washington.' + '\n' +
                   '• In May 2021, I comleted my Masters degree in Human-Computer Interaction at Georgia Tech, USA.' + '\n' +
                   '• In June 2019, I completed my Bachelors degree in Computer Science at Mumbai University, India.' + '\n' +
                   '' + '\n' +
